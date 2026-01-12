@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# Pytorch
+*.pth
+*.pt
+checkpoints/
+
+# Data
+data/
+*.flo
+
+# VSCode
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
